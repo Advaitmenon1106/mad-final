@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkingButton" type="id" />
+    <item name="menu_TV" type="id" />
+    <item name="savingsButton" type="id" />
+    <item name="transferButton" type="id" />
+    <item name="activity_menu" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="BalanceTextView" type="id" />
+    <item name="DepositButton" type="id" />
+    <item name="DepositEditText" type="id" />
+    <item name="WithdrawButton" type="id" />
+    <item name="WithdrawEditText" type="id" />
+    <item name="cBalanceTextView" type="id" />
+    <item name="sBalanceTextView" type="id" />
+    <item name="TransferEditText" type="id" />
+    <item name="TransferSpinner" type="id" />
+    <item name="TransferButton" type="id" />
+</resources>
